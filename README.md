@@ -1,3 +1,3 @@
 # ai_app
 
-A new Flutter project.
+new reader app using flutter
