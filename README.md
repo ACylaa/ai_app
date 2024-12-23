@@ -1,3 +1,3 @@
 # ai_app
 
-new reader app using flutter
+news reader app using flutter
