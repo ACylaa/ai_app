@@ -1,0 +1,29 @@
+name: ai_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Network & JSON
+  http: ^0.13.5
+
+  # For opening links, e.g., "Read Full Article" in the browser
+  url_launcher: ^6.1.10
+
+  # Icons matching your web-based Font Awesome usage
+  font_awesome_flutter: ^10.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/pepe.jpg
